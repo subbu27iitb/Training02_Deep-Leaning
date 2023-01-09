@@ -4,7 +4,7 @@
 **Anaconda Download Link:** https://www.anaconda.com/products/distribution
 
 **Online Python Editors:**<br>
-https://onecompiler.com/
+https://onecompiler.com/<br>
 https://www.onlinegdb.com/
 
 **Python Study Material Links:**<br>
@@ -12,9 +12,6 @@ https://www.onlinegdb.com/
 **Python Practice Book:** https://anandology.com/python-practice-book/index.html<br>
 **Learn Python Programming (programmiz.com):** https://www.programiz.com/python-programming<br>
 **Learn Python Programming (data-flair):** https://data-flair.training/blogs/python-tutorial/<br>
-
-**Online Editor Link:** https://www.onlinegdb.com/<br>
-
 
 **Data visualization web links:**<br>
 https://matplotlib.org/stable/gallery/index<br>

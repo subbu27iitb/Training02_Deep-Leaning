@@ -14,3 +14,8 @@ https://www.onlinegdb.com/
 **Learn Python Programming (data-flair):** https://data-flair.training/blogs/python-tutorial/<br>
 
 **Online Editor Link:** https://www.onlinegdb.com/<br>
+
+
+**Data visualization web links:**<br>
+https://matplotlib.org/stable/gallery/index<br>
+https://seaborn.pydata.org/examples/index.html<br>
